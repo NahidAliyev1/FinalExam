@@ -1,0 +1,15 @@
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\bin\Debug\net8.0\HostCloudMVC.DAL.deps.json
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\bin\Debug\net8.0\HostCloudMVC.DAL.dll
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\bin\Debug\net8.0\HostCloudMVC.DAL.pdb
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\obj\Debug\net8.0\HostCloudMVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\obj\Debug\net8.0\HostCloudMVC.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\obj\Debug\net8.0\HostCloudMVC.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\obj\Debug\net8.0\HostCloudMVC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\obj\Debug\net8.0\HostCloudMVC.DAL.sourcelink.json
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\obj\Debug\net8.0\HostCloudMVC.DAL.dll
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\obj\Debug\net8.0\refint\HostCloudMVC.DAL.dll
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\obj\Debug\net8.0\HostCloudMVC.DAL.pdb
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\obj\Debug\net8.0\ref\HostCloudMVC.DAL.dll
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\bin\Debug\net8.0\HostCloudMVC.DAL.runtimeconfig.json
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\obj\Debug\net8.0\HostCloudMVC.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\HostCloudMVC\HostCloudMVC.DAL\obj\Debug\net8.0\HostCloudMVC.DAL.genruntimeconfig.cache

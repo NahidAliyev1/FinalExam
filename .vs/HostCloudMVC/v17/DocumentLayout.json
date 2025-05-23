@@ -1,0 +1,515 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B28C0-EBFB-496A-A2BC-2134CA760850}|HostCloudMVC.Bl\\HostCloudMVC.Bl.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.bl\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5B28C0-EBFB-496A-A2BC-2134CA760850}|HostCloudMVC.Bl\\HostCloudMVC.Bl.csproj|solutionrelative:hostcloudmvc.bl\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B28C0-EBFB-496A-A2BC-2134CA760850}|HostCloudMVC.Bl\\HostCloudMVC.Bl.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.bl\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5B28C0-EBFB-496A-A2BC-2134CA760850}|HostCloudMVC.Bl\\HostCloudMVC.Bl.csproj|solutionrelative:hostcloudmvc.bl\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\areas\\admin\\controllers\\cloudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\areas\\admin\\controllers\\cloudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B28C0-EBFB-496A-A2BC-2134CA760850}|HostCloudMVC.Bl\\HostCloudMVC.Bl.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.bl\\services\\cloudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5B28C0-EBFB-496A-A2BC-2134CA760850}|HostCloudMVC.Bl\\HostCloudMVC.Bl.csproj|solutionrelative:hostcloudmvc.bl\\services\\cloudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Migrations\\20250523125133_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HostCloudMVC.DAL\\Migrations\\20250523125133_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216411CE-D196-472C-B957-7B8494C91852}|HostCloudMVC.DAL\\HostCloudMVC.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216411CE-D196-472C-B957-7B8494C91852}|HostCloudMVC.DAL\\HostCloudMVC.DAL.csproj|solutionrelative:hostcloudmvc.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216411CE-D196-472C-B957-7B8494C91852}|HostCloudMVC.DAL\\HostCloudMVC.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216411CE-D196-472C-B957-7B8494C91852}|HostCloudMVC.DAL\\HostCloudMVC.DAL.csproj|solutionrelative:hostcloudmvc.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216411CE-D196-472C-B957-7B8494C91852}|HostCloudMVC.DAL\\HostCloudMVC.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.dal\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216411CE-D196-472C-B957-7B8494C91852}|HostCloudMVC.DAL\\HostCloudMVC.DAL.csproj|solutionrelative:hostcloudmvc.dal\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B28C0-EBFB-496A-A2BC-2134CA760850}|HostCloudMVC.Bl\\HostCloudMVC.Bl.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.bl\\viewmodels\\cloudvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5B28C0-EBFB-496A-A2BC-2134CA760850}|HostCloudMVC.Bl\\HostCloudMVC.Bl.csproj|solutionrelative:hostcloudmvc.bl\\viewmodels\\cloudvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\areas\\admin\\views\\cloud\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\areas\\admin\\views\\cloud\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216411CE-D196-472C-B957-7B8494C91852}|HostCloudMVC.DAL\\HostCloudMVC.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.dal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216411CE-D196-472C-B957-7B8494C91852}|HostCloudMVC.DAL\\HostCloudMVC.DAL.csproj|solutionrelative:hostcloudmvc.dal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\areas\\admin\\views\\cloud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\areas\\admin\\views\\cloud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\areas\\admin\\views\\cloud\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\areas\\admin\\views\\cloud\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\areas\\admin\\views\\cloud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\areas\\admin\\views\\cloud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216411CE-D196-472C-B957-7B8494C91852}|HostCloudMVC.DAL\\HostCloudMVC.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.dal\\models\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216411CE-D196-472C-B957-7B8494C91852}|HostCloudMVC.DAL\\HostCloudMVC.DAL.csproj|solutionrelative:hostcloudmvc.dal\\models\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5B28C0-EBFB-496A-A2BC-2134CA760850}|HostCloudMVC.Bl\\HostCloudMVC.Bl.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.bl\\exceptions\\cloudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5B28C0-EBFB-496A-A2BC-2134CA760850}|HostCloudMVC.Bl\\HostCloudMVC.Bl.csproj|solutionrelative:hostcloudmvc.bl\\exceptions\\cloudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6FE043E-43EF-4470-B83F-1F33E199A001}|HostCloudMVC.MVC\\HostCloudMVC.MVC.csproj|solutionrelative:hostcloudmvc.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216411CE-D196-472C-B957-7B8494C91852}|HostCloudMVC.DAL\\HostCloudMVC.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\hostcloudmvc\\hostcloudmvc.dal\\migrations\\20250523103403_createcloudtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216411CE-D196-472C-B957-7B8494C91852}|HostCloudMVC.DAL\\HostCloudMVC.DAL.csproj|solutionrelative:hostcloudmvc.dal\\migrations\\20250523103403_createcloudtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.Bl\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.Bl\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.Bl\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "HostCloudMVC.Bl\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:03:37.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.Bl\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.Bl\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.Bl\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "HostCloudMVC.Bl\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:02:30.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HostCloudMVC.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:59:21.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "HostCloudMVC.MVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:54:55.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250523125133_initial.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Migrations\\20250523125133_initial.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.DAL\\Migrations\\20250523125133_initial.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Migrations\\20250523125133_initial.cs",
+              "RelativeToolTip": "HostCloudMVC.DAL\\Migrations\\20250523125133_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:51:34.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Models\\AppRole.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.DAL\\Models\\AppRole.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Models\\AppRole.cs",
+              "RelativeToolTip": "HostCloudMVC.DAL\\Models\\AppRole.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:35:33.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.DAL\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Models\\AppUser.cs",
+              "RelativeToolTip": "HostCloudMVC.DAL\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:35:26.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Info.cshtml",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Info.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Info.cshtml",
+              "RelativeToolTip": "HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Info.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T11:12:02.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CloudVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.Bl\\ViewModels\\CloudVM.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.Bl\\ViewModels\\CloudVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.Bl\\ViewModels\\CloudVM.cs",
+              "RelativeToolTip": "HostCloudMVC.Bl\\ViewModels\\CloudVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:09:53.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Update.cshtml",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Update.cshtml",
+              "RelativeToolTip": "HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Update.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T11:05:45.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Create.cshtml",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Create.cshtml",
+              "RelativeToolTip": "HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:56:53.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HostCloudMVC.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:50:06.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HostCloudMVC.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAUwMwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:49:15.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Index.cshtml",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Index.cshtml",
+              "RelativeToolTip": "HostCloudMVC.MVC\\Areas\\Admin\\Views\\Cloud\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:45:12.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CloudController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Areas\\Admin\\Controllers\\CloudController.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\Areas\\Admin\\Controllers\\CloudController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Areas\\Admin\\Controllers\\CloudController.cs",
+              "RelativeToolTip": "HostCloudMVC.MVC\\Areas\\Admin\\Controllers\\CloudController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwD0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:45:00.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "HostCloudMVC.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-23T10:44:30.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CloudException.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.Bl\\Exceptions\\CloudException.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.Bl\\Exceptions\\CloudException.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.Bl\\Exceptions\\CloudException.cs",
+              "RelativeToolTip": "HostCloudMVC.Bl\\Exceptions\\CloudException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:37:46.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CloudService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.Bl\\Services\\CloudService.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.Bl\\Services\\CloudService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.Bl\\Services\\CloudService.cs",
+              "RelativeToolTip": "HostCloudMVC.Bl\\Services\\CloudService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowFEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:35:13.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250523103403_CreateCloudTable.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Migrations\\20250523103403_CreateCloudTable.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.DAL\\Migrations\\20250523103403_CreateCloudTable.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Migrations\\20250523103403_CreateCloudTable.cs",
+              "RelativeToolTip": "HostCloudMVC.DAL\\Migrations\\20250523103403_CreateCloudTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:34:04.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cloud.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Models\\Cloud.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.DAL\\Models\\Cloud.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Models\\Cloud.cs",
+              "RelativeToolTip": "HostCloudMVC.DAL\\Models\\Cloud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:32:25.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.DAL\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Models\\BaseModel.cs",
+              "RelativeToolTip": "HostCloudMVC.DAL\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:32:09.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\appsettings.json",
+              "RelativeToolTip": "HostCloudMVC.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T10:18:48.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "HostCloudMVC.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:27:33.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HostCloudMVC.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:26:52.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HostCloudMVC.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:25:54.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HostCloudMVC.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAMoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:18:05.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HostCloudMVC.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:17:50.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "HostCloudMVC.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\HostCloudMVC\\HostCloudMVC.MVC\\Program.cs",
+              "RelativeToolTip": "HostCloudMVC.MVC\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:16:35.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

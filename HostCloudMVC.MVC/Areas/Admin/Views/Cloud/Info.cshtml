@@ -1,0 +1,44 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, AuthoringTagHelpers
+
+@using HostCloudMVC.DAL.Models
+@model Cloud
+
+
+<!-- Table Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-12">
+            <div class="bg-secondary rounded h-100 p-4">
+                <h6 class="mb-4">Cloud Table</h6>
+                <a asp-area="Admin" asp-controller="Cloud" asp-action="Create">Create</a>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Image </th>
+                            <th scope="col"> Name</th>
+                            <th scope="col">Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                       
+                            <tr>
+                                <th scope="row">@Model.Id</th>
+                                <td> <img src="~/assets/uploadedImages/@Model.ImgPath" alt=""></td>
+                                <td>@Model.Name</td>
+                                <td>@Model.Description</td>
+                               
+                            </tr>
+
+
+                        
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+</div>
+<!-- Table End -->

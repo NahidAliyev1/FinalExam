@@ -1,0 +1,53 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, AuthoringTagHelpers
+
+@using HostCloudMVC.DAL.Models
+@model List<Cloud>
+
+
+            <!-- Table Start -->
+            <div class="container-fluid pt-4 px-4">
+                <div class="row g-4">
+                    <div class="col-sm-12 col-xl-12">
+                        <div class="bg-secondary rounded h-100 p-4">
+                            <h6 class="mb-4">Cloud Table</h6>
+                            <a asp-area="Admin" asp-controller="Cloud" asp-action="Create">Create</a>
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">#</th>
+                                        <th scope="col">Image </th>
+                                        <th scope="col"> Name</th>
+                                        <th scope="col">Description</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                        @foreach (Cloud item in Model)
+                        
+                        {
+                            <tr>
+                                <th scope="row">@item.Id</th>
+                                <td> <img src="~/assets/uploadedImages/@item.ImgPath" alt=""></td>
+                                <td>@item.Name</td>
+                                <td>@item.Description</td>
+                                <td>
+
+                                    <a asp-area="Admin" asp-controller="Cloud" asp-action="Delete"  asp-route-id="@item.Id"  type="button" class="btn btn-danger">Delete</a>
+                                    <a asp-area="Admin" asp-controller="Cloud" asp-action="Update"  asp-route-id="@item.Id" type="button" class="btn btn-warning">Update</a>
+                                    <a asp-area="Admin" asp-controller="Cloud" asp-action="Info"   asp-route-id="@item.Id"  type="button" class="btn btn-info">Info</a>
+
+                                </td>
+                            </tr>
+                            
+                        
+                        }
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+            <!-- Table End -->
+           
